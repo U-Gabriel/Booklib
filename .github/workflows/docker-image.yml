@@ -32,4 +32,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ancelotow/booklib:latest
+          tags: ./mvnw package && ancelotow/booklib:latest
