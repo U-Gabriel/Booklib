@@ -32,4 +32,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: 6a7c170d-104c-4da0-92be-3eb4b693f596/booklib:latest
+          tags: ancelotow/booklib:latest
